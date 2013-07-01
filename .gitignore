@@ -1,1 +1,4 @@
 cache/
+/nbproject/private/
+/nbproject
+/vendor
